@@ -1,6 +1,6 @@
 # Back-end of Product using Node.js 
 
-Api of Products with persistence in database (Postgres and Sequelize)
+Api of Products with persistence in database (PostgreSQL and Sequelize)
 
 ## Project setup
 ```
