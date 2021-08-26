@@ -1,6 +1,7 @@
 # Project WEB
 
 - This project was developed in 2021 for discipline of WEB.
+- The project is REST-based
 
 ## Technologies used: 
 
