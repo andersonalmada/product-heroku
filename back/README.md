@@ -2,8 +2,6 @@
 
 Api of Products with persistence in Database (Postgres and Sequelize)
 
-# Front-end of Product using Vue.js
-
 ## Project setup
 ```
 npm install
