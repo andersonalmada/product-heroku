@@ -25,7 +25,7 @@
 - Express-session
 - Cookie-parser
 ### Database
-- Postgres
+- PostgreSQL
 - pgAdmin
 ### Infrastructure
 - Heroku
