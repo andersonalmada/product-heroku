@@ -23,7 +23,7 @@
         - Cookie-parser
     - Database
         - Postgres
-        - Pgadmin
+        - pgAdmin
     - Infrastructure
         - Heroku
     
