@@ -1,4 +1,4 @@
-# hello2
+# Front-end of Product using Vue.js
 
 ## Project setup
 ```
