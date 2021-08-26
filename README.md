@@ -1,7 +1,7 @@
 # Project WEB
 
 - This project was developed in 2021 for discipline of WEB.
-- The project is REST-based, deploy in Heroku, and upload for FTP.
+- The project is REST-based, deploy in Heroku, and upload with FTP.
 
 ## Technologies used: 
 
